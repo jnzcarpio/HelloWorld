@@ -1,0 +1,2 @@
+This is a new file for testing of the Git HelloWorld site at GitHub using Git. The new tools are awesome and great for programming compared to 20 years ago.
+Exciting time to do programming again.
